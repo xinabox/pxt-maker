@@ -29,8 +29,6 @@ declare namespace pins {
     const SCL: DigitalInOutPin;
     //% fixedInstance shim=pxt::getPin(PIN_SDA)
     const SDA: DigitalInOutPin;
-	//% fixedInstance shim=pxt::getPin(PIN_SDA)
-    const SDA: DigitalInOutPin;
 	//% fixedInstance shim=pxt::getPin(PIN_D1)
     const ALERT: DigitalInOutPin;
 	//% fixedInstance shim=pxt::getPin(PIN_LED2)

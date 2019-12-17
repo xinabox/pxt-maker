@@ -75,6 +75,7 @@
         "libs/adafruit-gemma-m0",
         "libs/xinabox-cc03",
         "libs/xinabox-cs11",
+		"libs/xinabox-cw03",
         "libs/arduino-zero",
         "libs/arduino-mkr1000",
         "libs/arduino-mkr1010",

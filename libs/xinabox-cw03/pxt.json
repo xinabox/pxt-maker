@@ -1,6 +1,6 @@
 {
     "name": "xinabox-cw03",
-    "description": "Support for XinaBox Cw03 - Beta",
+    "description": "Support for XinaBox cw03 - Beta",
     "files": [
         "README.md",
         "device.d.ts",

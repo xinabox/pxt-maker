@@ -18,6 +18,7 @@
 * [XinaBox](/boards/xinabox)
     * [XinaBox CC03](/boards/xinabox-cc03)
     * [XinaBox CS11](/boards/xinabox-cs11)
+	* [XinaBox CW03](/boards/xinabox-cw03)
 * [Misc](/boards/misc)
     * [RedBear BLE NANO 2](/boards/redbear-ble-nano)
     * [StichKit](/boards/stitchkit)
